@@ -1,0 +1,22 @@
+{
+  "name": "Paging927",
+  "version": "0.1.0",
+  "summary": "A short description of Paging927.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gurrium/Paging927",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gurrium": "gurrium@hatena.ne.jp"
+  },
+  "source": {
+    "git": "https://github.com/gurrium/Paging927.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Paging927/Classes/**/*"
+}

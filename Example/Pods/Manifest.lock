@@ -1,0 +1,16 @@
+PODS:
+  - Paging927 (0.1.0)
+
+DEPENDENCIES:
+  - Paging927 (from `../`)
+
+EXTERNAL SOURCES:
+  Paging927:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Paging927: d62f06e096b19cccf578821a11bbf6c7fc7775c7
+
+PODFILE CHECKSUM: 8ff5eee38637aaf9c47b4f3b26f4cba18dfc118d
+
+COCOAPODS: 1.10.1
